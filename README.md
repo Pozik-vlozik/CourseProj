@@ -2,4 +2,4 @@
 
 Second course project
 
-<h1> WOW </h1>
+<h1 align="center"> WOW </h1>
